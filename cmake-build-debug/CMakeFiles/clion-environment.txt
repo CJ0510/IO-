@@ -1,0 +1,5 @@
+ToolSet: 6.0 w64 (local)@D:\LenovoSoftstore\Install\QT\Tools\mingw730_64
+Ninja: 1.11.1@D:\LenovoSoftstore\Install\CLion 2024.1\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/LenovoSoftstore/Install/CLion 2024.1/bin/ninja/win/x64/ninja.exe
